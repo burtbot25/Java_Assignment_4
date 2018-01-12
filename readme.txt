@@ -1,3 +1,8 @@
+**Please refer to the following file for this assignment's requirements:
+  - Comp1510 Assignment 4.pdf
+
+////////////////////////////////////////////////////////////////////////
+
 [Wilburt Herrera], [A01029698], [1B], [December 6, 2017]
 
 This assignment is 100% complete.
